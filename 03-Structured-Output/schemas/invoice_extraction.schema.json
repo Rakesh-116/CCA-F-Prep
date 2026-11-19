@@ -1,0 +1,6 @@
+{
+  "title": "InvoiceExtraction",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "Canonical application schema. Generate provider schemas from the Pydantic model before live calls."
+}
