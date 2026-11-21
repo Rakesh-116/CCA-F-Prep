@@ -33,6 +33,8 @@ python -m unittest discover -s tests -t . -v
 
 Project instructions are version controlled and are the shared source of truth. User-level instructions are personal and must not override a repository's safety or delivery constraints.
 
+For the exact repository inventory and instruction paths, see [Claude Code instruction locations](../00-Concept-Notebook/03-SDK-APIs-and-Terminology/claude-code-instruction-locations.md).
+
 ## Next increments
 
 1. Validate project context interactively.

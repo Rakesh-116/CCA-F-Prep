@@ -27,3 +27,7 @@ python -m unittest discover -s tests -t . -v
 2. Change `max_attempts` and explain the cost/reliability trade-off.
 3. Create a task, instantiate a new `TaskStore` with the same database path, and resume it.
 4. Add `delete_record` to a scenario and verify it cannot run without approval.
+
+## Revision notes
+
+See [context summarization versus durable persistence](../00-Concept-Notebook/04-Context-and-Sessions/context-vs-persistence.md).

@@ -48,3 +48,7 @@ No dependency or API key is required. The demo deliberately uses mock findings a
 ## Next increment
 
 Replace `MockSpecialist` with a model-backed adapter only after this baseline is understood. The adapter should validate model JSON at the application boundary, capture provider usage from the response, and cite only retrieved sources.
+
+## Revision notes
+
+See the shared [orchestration note](../00-Concept-Notebook/01-Agent-Fundamentals/orchestration.md) for parallel/sequential trade-offs and exam traps.

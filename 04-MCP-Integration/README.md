@@ -47,3 +47,7 @@ Ask: `What is the mock leave balance for EMP-101?` Approve the tool invocation o
 3. Stop the server and observe the host's unavailable-tool failure.
 4. Compare the tool, resource, and prompt in Inspector.
 5. Later, change `mcp.run()` to Streamable HTTP only after understanding why local stdio is the smaller security boundary.
+
+## Revision notes
+
+See [MCP tools, resources, and prompts](../00-Concept-Notebook/05-Tool-Execution-and-Permissions/mcp-primitives.md).
