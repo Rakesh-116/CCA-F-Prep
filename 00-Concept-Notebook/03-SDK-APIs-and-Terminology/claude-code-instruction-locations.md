@@ -22,6 +22,8 @@ Only the Project 2 file exists in this repository today. This table is an invent
 
 Claude Code can discover `CLAUDE.md` files from the working directory upward. A nested instruction file becomes relevant when working in that subtree. Use `/memory` in a Claude Code session to inspect loaded memory instead of guessing.
 
+Correction: project instructions can be placed at either `./CLAUDE.md` or `./.claude/CLAUDE.md`; this repository currently uses the first location for Project 2.
+
 ## Comparison
 
 | Mechanism | Scope | Version controlled? | Appropriate use |
