@@ -17,7 +17,7 @@ The numbered projects are runnable labs. This notebook is the single source of t
 | Context and durable state | [Context vs persistence](04-Context-and-Sessions/context-vs-persistence.md) | [Project 5](../05-Context-Reliability/README.md) |
 | Reliability and evaluation | [Prompt/context/evaluation](04-Context-and-Sessions/prompt-context-and-evaluation.md) | [Project 5](../05-Context-Reliability/README.md) |
 | Exam recognition | [Comparisons and scenarios](07-Exam-Traps-and-Comparisons/comparisons-and-scenarios.md) | All projects |
-| High-leverage terminology | [Vocabulary](08-Vocabulary-and-Mental-Models/high-leverage-vocabulary.md) | All projects |
+| All vocabulary and code terms | [Master vocabulary](08-Vocabulary-and-Mental-Models/high-leverage-vocabulary.md) | All projects |
 | Session and filesystem isolation | [Conversation vs filesystem forks](08-Vocabulary-and-Mental-Models/conversation-vs-filesystem-forks.md) | Projects 1, 2, and 5 |
 
 ## How to add a learning item
